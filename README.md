@@ -1,2 +1,2 @@
 # blog
-# add first line.
+# add one line.
